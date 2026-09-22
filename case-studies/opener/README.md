@@ -12,7 +12,7 @@
 - **522 conversations** started with interested brands
 - **~$1.9M** in pipeline influenced
 
-![Instantly dashboard showing reply and opportunity metrics](./images/instantly_dashboard_screenshot_1.png)
+![Instantly dashboard showing reply and opportunity metrics](./media/instantly-dashboard-screenshot-1.png)
 
 ## Context
 
@@ -70,11 +70,11 @@ Health?
 {sender_first_name}
 ```
 
-![Instantly dashboard from one of the nine campaigns, showing a 5.18% reply rate and 106 opportunities](./images/instantly_dashboard_screenshot_2.png)
+![Instantly dashboard from one of the nine campaigns, showing a 5.18% reply rate and 106 opportunities](./media/instantly-dashboard-screenshot-2.png)
 
 ### Emailing the general inbox, not just a personal one
 
-A third of Opener's addressable market was brands doing $250K–$10M a year, and most of that range sat in the lower half. AI and Clay's enrichment stack, which reliably found personal work emails for the rest of the list, simply couldn't find contacts for a lot of these companies — owners and heads of sales at small retail brands aren't active on LinkedIn the way a head of growth at a bigger company is.
+A third of Opener's addressable market was brands doing $250K–$10M a year, and most of that range sat in the lower half. AI and Clay's enrichment stack, which reliably found personal work emails for the rest of the list, simply couldn't find contacts for a lot of these companies - owners and heads of sales at small retail brands aren't active on LinkedIn the way a head of growth at a bigger company is.
 
 What these companies did have was a general inbox: info@, sales@, hello@. My hypothesis was that a company small enough to be unreachable through normal enrichment was also small enough that the owner or decision-maker was checking that inbox themselves.
 
@@ -104,11 +104,11 @@ Thanks!
 {sender_first_name}
 ```
 
-The only personalisation in that email is the company name and "craft beer" — the same minimal pattern from the nine campaigns above, applied here too. I had AI read each brand's site and summarise what they sold into a short phrase: "craft beer", "cookie", "coffee", "matcha powder". For brands with more than one product line, it picked whichever was most prominent, or just picked one. That one phrase was enough to make the email read like we'd actually looked at their site, without writing a bespoke line for each brand.
+The only personalisation in that email is the company name and "craft beer" - the same minimal pattern from the nine campaigns above, applied here too. I had AI read each brand's site and summarise what they sold into a short phrase: "craft beer", "cookie", "coffee", "matcha powder". For brands with more than one product line, it picked whichever was most prominent, or just picked one. That one phrase was enough to make the email read like we'd actually looked at their site, without writing a bespoke line for each brand.
 
-![General contact email campaign results](./images/general_contact_email_campaign_results.png)
+![General contact email campaign results](./media/general-contact-email-campaign-results.png)
 
-8,932 emails sent, a 4.4% reply rate (397 replies), and a 34.5% positive reply rate (137 conversations) — against a subset of the market we otherwise had no way to reach. At Opener's ~$3,600 average contract value, those 137 conversations put roughly **$493,200** into the pipeline already counted in the results above (the dashboard's own "$140,000" opportunities field uses a different, smaller multiplier — I'm using conversations × ACV here). It became our second-best-performing campaign out of all nine.
+8,932 emails sent, a 4.4% reply rate (397 replies), and a 34.5% positive reply rate (137 conversations) - against a subset of the market we otherwise had no way to reach. At Opener's ~$3,600 average contract value, those 137 conversations put roughly **$493,200** into the pipeline already counted in the results above (the dashboard's own "$140,000" opportunities field uses a different, smaller multiplier - I'm using conversations × ACV here). It became our second-best-performing campaign out of all nine.
 
 ## What I took away
 
