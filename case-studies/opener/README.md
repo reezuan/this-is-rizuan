@@ -1,7 +1,9 @@
 # Opener: scaling outbound past one rep
 
 **Client:** Opener, AI sales agent that gets CPG brands into retail stores
+
 **Role:** GTM Engineer, via Growth Alliance
+
 **Timeframe:** 3 months
 
 ## Results
